@@ -6,6 +6,10 @@ An app that lets user search thousands of royalty free images based keywords by 
 ### Features
 - Firebase Authentication and Login.
 
+## Data Model
+
+![datamodel](https://user-images.githubusercontent.com/86222915/236661099-961aa22e-d108-4d46-80e1-67726812d152.PNG)
+
 
 
 ## Dark Mode
