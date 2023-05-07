@@ -8,10 +8,8 @@ An app that lets user search thousands of royalty free images based keywords by 
 
 ## Demo
 
-https://user-images.githubusercontent.com/86222915/197575263-d75ab8d1-4b9c-4133-bf33-40cec099cc51.mp4
 
-
-
+https://user-images.githubusercontent.com/86222915/236660670-0eb2eaa1-56e1-4408-8f0c-c55fdfda1449.mp4
 
 
 
@@ -27,4 +25,6 @@ https://user-images.githubusercontent.com/86222915/197575263-d75ab8d1-4b9c-4133-
 ![homepg2](https://user-images.githubusercontent.com/86222915/236658640-b211e591-4c1b-4d84-b6c8-4180be4304c8.PNG)
 
 ![profilepg](https://user-images.githubusercontent.com/86222915/236658642-20e50fec-cc06-42d5-b5a3-2825c2d76ae8.PNG)
+
+
 
