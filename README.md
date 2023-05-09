@@ -1,10 +1,18 @@
 # Socialize-App
 
 ### Project Overview
-A full-stack responsive MERN application that allows users to upload images on the Socialize website. In addition, users can like, add/remove their friends.
+A full-stack responsive MERN application that allows users to upload images on the Socialize website. In addition, users can like the posts, add/remove their new friends.  In addition, the web app supports dark mode for the ease of use and compatible across all browsers being responsive such as mobile first design.
 
-### Features
-- Firebase Authentication and Login.
+### Description
+- Leveraged React.js resources to build scalable and reusable components, encapsulating URL's and standarizing data acess interfaces.
+- The front-end use of React.js with Material UI to build a single-page web app that communicates with the back-end via RESTFUL API.
+- The back-end use of Node.js, Express.js, MongoDB and Mongoose, the complete MERN stack to provide Restful API.
+- Implemented JSON webtoken(JWT) authentication protocol for user authentication on the web.
+- NPM to manage the modules and used it to install useful tools such as Express, body-parser, bcrypt.js, mongo.js, etc.
+- Redux-Persist used local storage to store & retrieve insensitive user data during transition between the different pages.
+- To handle application state management integrated Redux Toolkit to create data store.
+- React Router for routing to enable the navigation among views of various components.
+- Formik and Yup to handle form validation for User signup and login process.
 
 ## Data Model
 
