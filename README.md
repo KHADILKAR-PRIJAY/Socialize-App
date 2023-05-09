@@ -1,9 +1,9 @@
 # Socialize-App
 
-### Project Overview
+## Project Overview
 A full-stack responsive MERN application that allows users to upload images on the Socialize website. In addition, users can like the posts, add/remove their new friends.  In addition, the web app supports dark mode for the ease of use and compatible across all browsers being responsive such as mobile first design.
 
-### Description
+## Description
 - Leveraged React.js resources to build scalable and reusable components, encapsulating URL's and standarizing data acess interfaces.
 - The front-end use of React.js with Material UI to build a single-page web app that communicates with the back-end via RESTFUL API.
 - The back-end use of Node.js, Express.js, MongoDB and Mongoose, the complete MERN stack to provide Restful API.
