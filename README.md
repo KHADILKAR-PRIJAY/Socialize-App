@@ -3,8 +3,8 @@
 ### Project Overview
 A full-stack responsive MERN application that allows users to upload images on the Socialize website. In addition, users can like, add/remove their friends.
 
-<!-- ### Features
-- Firebase Authentication and Login. -->
+### Features
+- Firebase Authentication and Login.
 
 ## Data Model
 
