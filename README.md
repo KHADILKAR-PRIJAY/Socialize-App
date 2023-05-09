@@ -1,6 +1,9 @@
 # Socialize-App 
 
 ## Project Overview 📢
+
+<img src="https://github.com/KHADILKAR-PRIJAY/Socialize-App/assets/86222915/53bb81b8-3052-455e-a046-98116ecae6ab"  width="35%" height="30%"> </br>
+
 A full-stack responsive MERN application that allows users to upload images on the Socialize website. In addition, users can like the posts, add/remove their new friends.  In addition, the web app supports dark mode for the ease of use and compatible across all browsers being responsive such as mobile first design.
 
 <br />
